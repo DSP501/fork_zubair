@@ -1,1 +1,6 @@
 This is file 1
+
+
+function abc() {
+  console.log("hello world");
+}
